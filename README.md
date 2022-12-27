@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @kpobrien95
-- 👀 I’m interested in VC and defense innovation
-- 🌱 I’m currently learning python, AWS
-- 💞️ I’m looking to collaborate on k8s
+- 👋 Hi, I’m @kieranopat
+- 👀 I’m interested in cloud infra, k8s, and natsec
+- 🌱 I’m currently learning python, k3s
+- 💞️ I’m looking to collaborate on k3s projects
 - 📫 linkedin.com/in/kpobrien95
 
 <!---
